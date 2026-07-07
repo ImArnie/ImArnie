@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ImArnie
-- 👀 I’m interested in creating websites using html, css, php and wordpress. 
-- 🌱 I’m currently learning Sass, wordpress, php, vue, jquery and new ways to get better web look with css
-- 💞️ I’m not looking to collaborate on anything, but i like trying new things
-- 📫 How to reach me ... maybe in future :P
+# 👋 Hi, I'm @ImArnieSVK
+
+I'm a Linux enthusiast and developer who enjoys building functional web platforms and exploring desktop applications. I value digital privacy, clean code, and well-optimized systems.
+
+- 🖥️ **What I'm up to:** Developing web applications using **PHP** and **Filament PHP** (currently building a Linux community platform).
+- 🌱 **What I'm learning:** Diving into the desktop ecosystem with **Rust**, **Tauri**, and **Vue.js**.
+- 🐧 **My environment:** Running on immutable Linux distributions with KDE Plasma.
+- 💞️ **Open Source:** Looking to contribute to community projects and help improve frontend structures, HTML/CSS, or Vue layouts.
+- 📫 **How to reach me:** You can open an issue or connect with me directly through my repository discussions.
 
 <!---
 ImArnie/ImArnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
